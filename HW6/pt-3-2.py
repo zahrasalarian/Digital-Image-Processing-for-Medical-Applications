@@ -8,7 +8,7 @@ color = (0, 0, 255)
 limbal_dermoid_img = cv2.imread('limbal-dermoid.jpeg', 0)
 assert limbal_dermoid_img is not None, "file could not be read, check with os.path.exists()"
 
-### 8. Test different results for different input parameters for the cv.HoughCircles function
+### 8. Explore different results for different input parameters to the cv.HoughCircles function
 img = cv2.medianBlur(limbal_dermoid_img,5)
 cimg = cv2.cvtColor(img,cv2.COLOR_GRAY2BGR)
 circles = cv2.HoughCircles(img,cv2.HOUGH_GRADIENT,1.5,20,param1=700,param2=30,minRadius=30,maxRadius=35)
