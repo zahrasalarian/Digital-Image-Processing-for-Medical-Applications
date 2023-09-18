@@ -8,7 +8,7 @@ This repository contains assignments and projects related to various aspects of 
 
 1. [HW0 - Introduction to Image Analysis with Python](#hw0)
 2. [HW1 - Introduction to Operations on Images](#hw1)
-    - [affine_transformations_and_image_interpolation.ipynb](#affine_transformations_and_image_interpolationipynb)
+    - [affine_transformations_and_image_interpolation.ipynb](<.HW1 - Introduction to Operations on Images/affine_transformations_and_image_interpolation.ipynb>)
     - [contrast_and_brightness_adjustments.ipynb](#contrast_and_brightness_adjustmentsipynb)
 3. [HW2 - Intensity-based Operations](#hw2)
 4. [HW3 - Spatial Operations](#hw3)
