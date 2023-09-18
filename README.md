@@ -9,8 +9,10 @@ This repository contains assignments and projects related to various aspects of 
 1. [HW0 - Introduction to Image Analysis with Python](#hw0)
 2. [HW1 - Introduction to Operations on Images](#hw1)
     - [affine_transformations_and_image_interpolation.ipynb (File Link)](<HW1 - Introduction to Operations on Images/affine_transformations_and_image_interpolation.ipynb>)
-    - [contrast_and_brightness_adjustments.ipynb](<HW1 - Introduction to Operations on Images/contrast_and_brightness_adjustmentsipynb.ipynb>)
+    - [contrast_and_brightness_adjustments.ipynb (File Link)](<HW1 - Introduction to Operations on Images/contrast_and_brightness_adjustmentsipynb.ipynb>)
 3. [HW2 - Intensity-based Operations](#hw2)
+    - [contrast_stretching_and_power_law.ipynb (File Link)](<HW2 - Intensity-based Operations/contrast_stretching_and_power_law.ipynb>)
+    - [contrast_and_brightness_adjustments.ipynb (File Link)](<HW1 - Introduction to Operations on Images/contrast_and_brightness_adjustmentsipynb.ipynb>)
 4. [HW3 - Spatial Operations](#hw3)
 5. [HW4 - Frequency Domain Operations](#hw4)
 6. [HW5 - Image Restoration and Morphological Image Processing](#hw5)
@@ -33,15 +35,16 @@ In this section, we introduce basic tools for image analysis using Python. We co
 
 In this section, we delve into basic image operations, including transformations and adjustments. The notebooks cover a variety of techniques such as affine transformations, image interpolation, and contrast & brightness adjustments.
 
-### Tasks Completed
+### Topics Covered
 
 #### `affine_transformations_and_image_interpolation.ipynb`
-- Performed Various Transformations (Rotation, Scaling, Shearing)
-- Implemented Downsampling
-- Performed Resampling & Interpolation (Cubic, Linear, Nearest)
+- Affine Transformations (Rotation, Scaling, Shearing)
+- Downsampling
+- Resampling & Interpolation (Cubic, Linear, Nearest)
 
 #### `contrast_and_brightness_adjustments.ipynb`
-- Normalized Images
+- Images Normalization
+- Linear and Non-linear Transformations
 - Adjusted Contrast & Brightness
 
 ---
@@ -51,8 +54,12 @@ In this section, we delve into basic image operations, including transformations
 Here, we dive into operations that change the intensity levels of the pixels in an image.
 
 ### Topics Covered
-- Thresholding
-- Histogram Equalization
+
+#### `contrast_stretching_and_power_law.ipynb`
+- Contrast Stretching
+- Power-Law (Gamma) Transformation
+- Different Gamma Value Experimentation
+- Comparison between Contrast Stretching and Power-Law Along 
 
 ---
 
