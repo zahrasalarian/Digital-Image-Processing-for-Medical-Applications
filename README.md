@@ -36,13 +36,13 @@ In this section, we delve into basic image operations, including transformations
 ### Topics Covered
 
 **Filename:** affine_transformations_and_image_interpolation.ipynb  
-**Tasks Completed:**  
+**Tasks Completed:**
 - Performed Various Transformations (Rotation, Scaling, Shearing)
 - Implemented Downsampling
 - Performed Resampling & Interpolation (Cubic, Linear, Nearest)
 
-**Filename:** contrast_and_brightness_adjustments.ipynb  
-**Tasks Completed**:
+**Filename:** contrast_and_brightness_adjustments.ipynb
+**Tasks Completed:**
 - Loaded Different Types of Images (Background, Full-Scale, Object)
 - Calculated Average Column
 - Normalized Image
