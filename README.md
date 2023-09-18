@@ -12,8 +12,10 @@ This repository contains assignments and projects related to various aspects of 
     - [contrast_and_brightness_adjustments.ipynb (File Link)](<HW1 - Introduction to Operations on Images/contrast_and_brightness_adjustmentsipynb.ipynb>)
 3. [HW2 - Intensity-based Operations](#hw2)
     - [contrast_stretching_and_power_law.ipynb (File Link)](<HW2 - Intensity-based Operations/contrast_stretching_and_power_law.ipynb>)
-    - [contrast_and_brightness_adjustments.ipynb (File Link)](<HW1 - Introduction to Operations on Images/contrast_and_brightness_adjustmentsipynb.ipynb>)
+    - [contrast_and_brightness_adjustments.ipynb (File Link)](<HW2 - Intensity-based Operations/histogram_equalization_and_CLAHE.ipynb>)
 4. [HW3 - Spatial Operations](#hw3)
+    - [contrast_stretching_and_power_law.ipynb (File Link)](<HW3 - Spatial Operations/mean_median_and_laplacian_isotropic_filters.ipynb>)
+    - [contrast_stretching_and_power_law.ipynb (File Link)](<HW3 - Spatial Operations/laplacian_sharpening_sobely_sobely.ipynb>)
 5. [HW4 - Frequency Domain Operations](#hw4)
 6. [HW5 - Image Restoration and Morphological Image Processing](#hw5)
 7. [HW6 - Segmentation and Active Contours](#hw6)
@@ -51,7 +53,7 @@ In this section, we delve into basic image operations, including transformations
 
 ## HW2 - Intensity-based Operations <a name="hw2"></a>
 
-Here, we dive into operations that change the intensity levels of the pixels in an image.
+This part, explores the nitty-gritty of intensity-based operations for image enhancement. Techniques ranging from contrast stretching and power law transformations to histogram equalization and CLAHE are covered. Each notebook offers a thorough analysis of histogram techniques and their outcomes, providing a complete understanding of the subject.
 
 ### Topics Covered
 
@@ -61,6 +63,11 @@ Here, we dive into operations that change the intensity levels of the pixels in 
 - Different Gamma Value Experimentation
 - Comparison between Contrast Stretching and Power-Law Along 
 
+#### `histogram_equalization_and_CLAHE.ipynb`
+- Histogram Equalization
+- Contrast Limited Adaptive Histogram Equalization (CLAHE)
+- Analysis of Histogram Techniques and Their Outcomes
+
 ---
 
 ## HW3 - Spatial Operations <a name="hw3"></a>
@@ -68,8 +75,18 @@ Here, we dive into operations that change the intensity levels of the pixels in 
 This section explores spatial operations like convolution and correlation.
 
 ### Topics Covered
-- Convolution
-- Correlation
+
+#### `mean_median_and_laplacian_isotropic_filters.ipynb`
+- Spatial Filters (Mean, Median)
+- Image Blurring Techniques
+- Laplacian Isotropic Filter
+- Image Enhancement
+
+#### `laplacian_sharpening_sobely_sobely.ipynb`
+- Laplacian Sharpening
+- Sobel Filters (Sobel-X, Sobel-Y)
+- Edge Detection Techniques
+- Image Enhancement
 
 ---
 
