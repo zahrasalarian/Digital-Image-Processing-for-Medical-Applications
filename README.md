@@ -84,12 +84,3 @@ The final section focuses on segmentation techniques and the concept of active c
 ### Topics Covered
 - Segmentation
 - Active Contours (Snakes)
-
----
-
-## Running the Notebooks
-
-To run the notebooks, you'll need Jupyter Notebook installed. You can install it using pip:
-
-```bash
-pip install notebook
