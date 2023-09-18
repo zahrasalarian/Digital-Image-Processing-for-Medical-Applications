@@ -33,21 +33,15 @@ In this section, we introduce basic tools for image analysis using Python. We co
 
 In this section, we delve into basic image operations, including transformations and adjustments. The notebooks cover a variety of techniques such as affine transformations, image interpolation, and contrast & brightness adjustments.
 
-### Topics Covered
+### Tasks Completed
 
-### affine_transformations_and_image_interpolation.ipynb
-**Tasks Completed:**
+#### `affine_transformations_and_image_interpolation.ipynb`
 - Performed Various Transformations (Rotation, Scaling, Shearing)
 - Implemented Downsampling
 - Performed Resampling & Interpolation (Cubic, Linear, Nearest)
 
-### contrast_and_brightness_adjustments.ipynb
-**Tasks Completed:**
-- Loaded Different Types of Images (Background, Full-Scale, Object)
-- Calculated Average Column
-- Normalized Image
-- Plotted Images
-- Enhanced Image Contrast
+#### `contrast_and_brightness_adjustments.ipynb`
+- Normalized Images
 - Adjusted Contrast & Brightness
 
 ---
