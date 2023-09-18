@@ -134,7 +134,7 @@ In this part, we explore various methods for improving image quality and enhanci
 
 ## HW6 - Segmentation and Active Contours <a name="hw6"></a>
 
-The final section focuses on segmentation techniques and the concept of active contours (snakes) for advanced image processing tasks.
+The final section focuses on the complex realm of image segmentation and contour detection. We employ a range of algorithms and techniques to identify and isolate specific structures within images. From basic circle detection using the Hough transform to sophisticated active contours known as "snakes," we explore how to extract meaningful information from complex visual scenes.
 
 ### Topics Covered
 
