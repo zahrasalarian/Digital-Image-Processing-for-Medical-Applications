@@ -8,6 +8,8 @@ This repository contains assignments and projects related to various aspects of 
 
 1. [HW0 - Introduction to Image Analysis with Python](#hw0)
 2. [HW1 - Introduction to Operations on Images](#hw1)
+    - [affine_transformations_and_image_interpolation.ipynb](#affine_transformations_and_image_interpolationipynb)
+    - [contrast_and_brightness_adjustments.ipynb](#contrast_and_brightness_adjustmentsipynb)
 3. [HW2 - Intensity-based Operations](#hw2)
 4. [HW3 - Spatial Operations](#hw3)
 5. [HW4 - Frequency Domain Operations](#hw4)
@@ -29,11 +31,24 @@ In this section, we introduce basic tools for image analysis using Python. We co
 
 ## HW1 - Introduction to Operations on Images <a name="hw1"></a>
 
-This part focuses on basic image operations like addition and subtraction.
+In this section, we delve into basic image operations, including transformations and adjustments. The notebooks cover a variety of techniques such as affine transformations, image interpolation, and contrast & brightness adjustments.
 
 ### Topics Covered
-- Image Addition
-- Image Subtraction
+
+**Filename:** affine_transformations_and_image_interpolation.ipynb  
+**Tasks Completed:**  
+- Performed Various Transformations (Rotation, Scaling, Shearing)
+- Implemented Downsampling
+- Performed Resampling & Interpolation (Cubic, Linear, Nearest)
+
+**Filename:** contrast_and_brightness_adjustments.ipynb  
+**Tasks Completed**:
+- Loaded Different Types of Images (Background, Full-Scale, Object)
+- Calculated Average Column
+- Normalized Image
+- Plotted Images
+- Enhanced Image Contrast
+- Adjusted Contrast & Brightness
 
 ---
 
