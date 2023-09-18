@@ -22,8 +22,10 @@ This repository contains assignments and projects related to various aspects of 
 6. [HW5 - Image Restoration and Morphological Image Processing](#hw5)
     - [restoration.ipynb (File Link)](<HW5 - Image Restoration and Morphological Image Processing/restoration.ipynb>)
     - [morphological_operations.ipynb (File Link)](<HW5 - Image Restoration and Morphological Image Processing/morphological_operations.ipynb>)
-
 7. [HW6 - Segmentation and Active Contours](#hw6)
+    - [non_maximum_suppression_and_hysteresis_thresholding.ipynb (File Link)](<HW6 - Segmentation and Active Contours/non_maximum_suppression_and_hysteresis_thresholding.ipynb>)
+    - [hough_circle_detection.ipynb (File Link)](<HW6 - Segmentation and Active Contours/hough_circle_detection.ipynb>)
+    - [active_contours_snakes_method.ipynb (File Link)](<HW6 - Segmentation and Active Contours/active_contours_snakes_method.ipynb>)
 
 ---
 
@@ -135,5 +137,18 @@ In this part, we explore various methods for improving image quality and enhanci
 The final section focuses on segmentation techniques and the concept of active contours (snakes) for advanced image processing tasks.
 
 ### Topics Covered
-- Segmentation
-- Active Contours (Snakes)
+
+#### `non_maximum_suppression_and_hysteresis_thresholding.ipynb`
+- Sobel and Prewitt Operators
+- Non-Maximum Suppression
+- Hysteresis Thresholding
+
+#### `hough_circle_detection.py`
+- Circle Detection using Hough Transform
+
+#### `active_contours_snakes_method.ipynb`
+- User Interface for Gathering Initial Contour Points
+- Calculating Equally Spaced 2D Contour Points
+- Snake External and Internal Energy Calculating
+- Contour Evolution
+
