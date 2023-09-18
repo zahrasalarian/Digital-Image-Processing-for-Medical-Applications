@@ -18,6 +18,9 @@ This repository contains assignments and projects related to various aspects of 
     - [contrast_stretching_and_power_law.ipynb (File Link)](<HW3 - Spatial Operations/laplacian_sharpening_sobely_sobely.ipynb>)
 5. [HW4 - Frequency Domain Operations](#hw4)
 6. [HW5 - Image Restoration and Morphological Image Processing](#hw5)
+    - [contrast_stretching_and_power_law.ipynb (File Link)](<HW5 - Image Restoration and Morphological Image Processing/restoration.ipynb>)
+    - [contrast_stretching_and_power_law.ipynb (File Link)](<HW5 - Image Restoration and Morphological Image Processing/morphological_operations.ipynb>)
+
 7. [HW6 - Segmentation and Active Contours](#hw6)
 
 ---
@@ -72,7 +75,7 @@ This part, explores the nitty-gritty of intensity-based operations for image enh
 
 ## HW3 - Spatial Operations <a name="hw3"></a>
 
-This section explores spatial operations like convolution and correlation.
+In this part, the focus shifts to spatial filtering techniques that emphasize on specific features in images. We explore various types of filters like mean, median, and Laplacian, along with edge-detection methods such as Sobel operators.
 
 ### Topics Covered
 
@@ -92,22 +95,37 @@ This section explores spatial operations like convolution and correlation.
 
 ## HW4 - Frequency Domain Operations <a name="hw4"></a>
 
-In this module, we delve into operations in the frequency domain, using techniques like Fourier Transform.
+In this section, we delve into the realm of frequency domain operations, studying the Fourier Transform and its applications in image processing. From basic Fourier Transform techniques to the implementation of various types of filters such as Ideal, Butterworth, and Gaussian, this section provides a comprehensive look into the manipulation of images in the frequency domain.
 
 ### Topics Covered
-- Fourier Transform
-- Frequency Filters
+
+#### `fourier_transform_and_band_reject.ipynb`
+- Fourier Transform for Image Analysis
+- Band-Reject Filtering
+- Frequency Domain Techniques
+
+#### `low_and_high_ideal_butterworth_guassian_filters.ipynb`
+- Fourier Transform & Inverse Fourier Transform
+- Low- and High-Pass Filters (Ideal, Butterworth, Gaussian)
 
 ---
 
 ## HW5 - Image Restoration and Morphological Image Processing <a name="hw5"></a>
 
-This section covers advanced topics like image restoration and morphological operations.
+In this part, we explore various methods for improving image quality and enhancing features through various restoration and morphological techniques. This section covers a range of topics, from eliminating unwanted artifacts to performing operations like dilation and erosion. We explore the fundamentals of these methods, their applications, and their effects on different types of images
 
 ### Topics Covered
-- Noise Removal
-- Morphological Operations
 
+#### `restoration.ipynb`
+- Noise Distribution Analysis
+- Alpha-Trimmed Mean Filtering
+- Inverse Filtering for Image Restoration
+- High- and Low-Pass Butterworth Filters
+
+#### `morphological_operations.ipynb`
+- Dilation and Erosion Functions
+- Boundary Identification through Textural Segmentation
+- Morphologic Opening and Closing
 ---
 
 ## HW6 - Segmentation and Active Contours <a name="hw6"></a>
