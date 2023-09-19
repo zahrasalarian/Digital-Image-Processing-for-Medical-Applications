@@ -60,7 +60,7 @@ In this section, we delve into basic image operations, including transformations
 
 ## HW2 - Intensity-based Operations <a name="hw2"></a>
 
-This part, explores the nitty-gritty of intensity-based operations for image enhancement. Techniques ranging from contrast stretching and power law transformations to histogram equalization and CLAHE are covered. Each notebook offers a thorough analysis of histogram techniques and their outcomes, providing a complete understanding of the subject.
+This part, explores the basics of intensity-based operations for image enhancement. Techniques ranging from contrast stretching and power law transformations to histogram equalization and CLAHE are covered. Each notebook offers a thorough analysis of histogram techniques and their outcomes, providing a complete understanding of the subject.
 
 ### Topics Covered
 
@@ -116,7 +116,7 @@ In this section, we delve into the realm of frequency domain operations, studyin
 
 ## HW5 - Image Restoration and Morphological Image Processing <a name="hw5"></a>
 
-In this part, we explore various methods for improving image quality and enhancing features through various restoration and morphological techniques. This section covers a range of topics, from eliminating unwanted artifacts to performing operations like dilation and erosion. We explore the fundamentals of these methods, their applications, and their effects on different types of images
+In this part, we explore various methods for improving image quality and enhancing features through various restoration and morphological techniques. This section covers a range of topics, from eliminating unwanted artifacts to performing operations like dilation and erosion. We explore the fundamentals of these methods, their applications, and their effects on different types of images.
 
 ### Topics Covered
 
@@ -134,7 +134,7 @@ In this part, we explore various methods for improving image quality and enhanci
 
 ## HW6 - Segmentation and Active Contours <a name="hw6"></a>
 
-The final section focuses on the complex realm of image segmentation and contour detection. We employ a range of algorithms and techniques to identify and isolate specific structures within images. From basic circle detection using the Hough transform to sophisticated active contours known as "snakes," we explore how to extract meaningful information from complex visual scenes.
+The final section focuses on the complex realm of image segmentation and contour detection. We employ a range of algorithms and techniques to identify and isolate specific structures within images. From basic circle detection using the Hough transform to sophisticated active contours known as "snakes". These techniques help us to explore how to extract meaningful information from complex visual scenes.
 
 ### Topics Covered
 
