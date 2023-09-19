@@ -7,6 +7,10 @@ This repository contains assignments and projects related to various aspects of 
 ## Table of Contents
 
 1. [HW0 - Introduction to Image Analysis with Python](#hw0)
+    - [pt-1.ipynb (File Link)](<HW0 - Introduction to Image Analysis with Python/pt-1.ipynb>)
+    - [pt-2.ipynb (File Link)](<HW0 - Introduction to Image Analysis with Python/pt-2.ipynb>)
+    - [pt-3.ipynb (File Link)](<HW0 - Introduction to Image Analysis with Python/pt-3.ipynb>)
+    - [pt-4.ipynb (File Link)](<HW0 - Introduction to Image Analysis with Python/pt-4.ipynb>)
 2. [HW1 - Introduction to Operations on Images](#hw1)
     - [affine_transformations_and_image_interpolation.ipynb (File Link)](<HW1 - Introduction to Operations on Images/affine_transformations_and_image_interpolation.ipynb>)
     - [contrast_and_brightness_adjustments.ipynb (File Link)](<HW1 - Introduction to Operations on Images/contrast_and_brightness_adjustments.ipynb>)
@@ -31,12 +35,25 @@ This repository contains assignments and projects related to various aspects of 
 
 ## HW0 - Introduction to Image Analysis with Python <a name="hw0"></a>
 
-In this section, we introduce basic tools for image analysis using Python. We cover the basics of image loading, display, and simple manipulations.
+In this section, we introduce the basics of Python programming and data visualization, laying the groundwork for advanced image analysis topics.
 
 ### Topics Covered
-- Image Loading
-- Image Display
-- Simple Manipulations
+
+#### `pt-1.ipynb`
+- Exploring NumPy functionalities
+- Data Types and Memory Management
+- Array Manipulations
+
+#### `pt-2.ipynb`
+- Populating Matrixes Based on Defined Rules
+
+#### `pt-3.ipynb`
+- 2D Matrix Generation with Circle Pattern
+- Adding Random Noise to Matrix
+
+#### `pt-4.ipynb`
+- Data Distribution Visualization
+- Plotting Histograms with Matplotlib
 
 ---
 
