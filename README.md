@@ -1,6 +1,6 @@
 # Digital Image Processing for Medical Applications
 
-This repository contains assignments and projects related to various aspects of image processing, from basic operations to advanced techniques like active contours.
+This repository contains assignments and projects related to various aspects of image processing, from basic operations to advanced techniques like active contours. Examples and case studies focus on applications in medical imaging.
 
 ---
 
