@@ -28,7 +28,7 @@ This repository contains assignments and projects related to various aspects of 
     - [morphological_operations.ipynb (File Link)](<HW5 - Image Restoration and Morphological Image Processing/morphological_operations.ipynb>)
 7. [HW6 - Segmentation and Active Contours](#hw6)
     - [non_maximum_suppression_and_hysteresis_thresholding.ipynb (File Link)](<HW6 - Segmentation and Active Contours/non_maximum_suppression_and_hysteresis_thresholding.ipynb>)
-    - [hough_circle_detection.ipynb (File Link)](<HW6 - Segmentation and Active Contours/hough_circle_detection.ipynb>)
+    - [hough_circle_detection.py (File Link)](<HW6 - Segmentation and Active Contours/hough_circle_detection.py>)
     - [active_contours_snakes_method.ipynb (File Link)](<HW6 - Segmentation and Active Contours/active_contours_snakes_method.ipynb>)
 
 ---
