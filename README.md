@@ -169,3 +169,8 @@ The final section focuses on the complex realm of image segmentation and contour
 - Snake External and Internal Energy Calculating
 - Contour Evolution
 
+#### Contour Evolution
+
+To give a visual summary of the exploration into active contours, below is an image illustrating the evolution of a contour after several iterations:
+
+![Contour Evolution](./contour_evolution.png)
